@@ -1,8 +1,8 @@
 # Everyday English
 
-Pratique inglês americano com explicações em português, diálogos, áudio normal e lento, vocabulário e exercícios de escuta.
+Pratique inglês com explicações em português, diálogos, áudio normal e lento, vocabulário e exercícios de escuta.
 
-**624 práticas: 104 por nível de A1 a C2.** Esta atualização acrescenta 100 práticas em cada nível às quatro originais.
+**624 práticas: 104 por nível de A1 a C2.**.
 
 [Abrir aplicativo](https://emanuelb7-andra.github.io/everyday-english/)
 
