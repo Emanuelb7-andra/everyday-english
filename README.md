@@ -7,7 +7,6 @@ Pratique inglês americano com explicações em português, diálogos, áudios p
 - 48 áudios de perguntas e respostas, incluídos no próprio aplicativo.
 - Reprodução normal ou lenta.
 - Exercícios de escuta com feedback.
-- Progresso salvo no navegador, sem conta ou servidor de dados.
 
 Esta é uma trilha inicial de prática. O conteúdo não constitui um curso completo nem certificação de proficiência.
 
