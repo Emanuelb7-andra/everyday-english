@@ -40,3 +40,16 @@ Ao alterar uma pergunta ou resposta em inglês, atualize também seu áudio no b
 ## GitHub Pages
 
 Publicação configurada em **Settings → Pages → Deploy from a branch → main → /(root)**. Alterações na branch `main` são publicadas após a implantação do GitHub Pages.
+
+
+## Desafios de estudo
+
+O menu principal reúne oito desafios com filtro A1–C2: ditado com áudio e correção por palavras; montagem de frases; revisão inteligente; completar diálogos; ouvir e repetir; missões em três etapas; leitura guiada; e desafio diário.
+
+- Os desafios reutilizam as 624 práticas e os bancos de áudio existentes. A leitura guiada inclui 12 textos originais (dois por nível), glossário e 24 perguntas.
+- A revisão registra erros e agenda repetições: dificuldade retorna em 10 minutos; acertos consecutivos usam intervalos de 1, 3, 7, 14 e 30 dias. É possível antecipar revisões.
+- O desafio diário usa a data local e o nível para fixar três etapas: escuta, vocabulário e escrita. Retoma etapas pendentes e não duplica a conclusão diária.
+- A gravação usa MediaRecorder e requer permissão de microfone e um navegador compatível. Limite de 30 segundos; reprodução local, sem upload ou persistência. O estudante compara as gravações por escuta, sem pontuação automática de pronúncia. Há prática em voz alta como alternativa.
+- O histórico dos desafios usa `everyday-english-challenges-v1` no localStorage, separado do progresso anterior. Sem login ou sincronização entre dispositivos. A limpeza dos desafios fica em Meu progresso.
+
+As implementações de desafios, seus estilos e os textos de leitura estão incorporados no index.html. Os bancos externos de áudio continuam necessários.
